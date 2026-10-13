@@ -3,8 +3,9 @@
 
 An aspiring AI & Machine Learning Engineer, currently upskilling through the *iHUB IIT Roorkee & Intellipaat AI & Data Science Program*.
 
-## 🔗 Connect With Me [![LinkedIn](https://www.linkedin.com/in/cherry-moses-shaik-43141b437 ) [![Email](cherryshaik13@gmail.com)
-
+## 🔗 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherry-moses-shaik-43141b437)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherryshaik13@gmail.com)
 ## 🚀 About Me
 
 👉 🔭*Current Focus:* Learning core Python, Advanced SQL, and Applied Machine Learning.
