@@ -1,13 +1,14 @@
 # Cherry_work_lab
-#👋 Hi, I'm Cherry! 
+# 👋 Hi, I'm Cherry! 
 
 An aspiring AI & Machine Learning Engineer, currently upskilling through the *iHUB IIT Roorkee & Intellipaat AI & Data Science Program*.
 
-##🔗 Connect With Me [![LinkedIn](https://www.linkedin.com/in/cherry-moses-shaik-43141b437 ) [![Email](cherryshaik13@gmail.com)
+## 🔗 Connect With Me [![LinkedIn](https://www.linkedin.com/in/cherry-moses-shaik-43141b437 ) [![Email](cherryshaik13@gmail.com)
 
-##🚀 About Me
+## 🚀 About Me
 
 👉 🔭*Current Focus:* Learning core Python, Advanced SQL, and Applied Machine Learning.
+
 👉 🎯 *Future Goals:* Pursuing B.Tech in AI/ML next year and aiming to Master the Technical Foundations.
 
 ## 💻 Technical Skills
@@ -15,7 +16,8 @@ An aspiring AI & Machine Learning Engineer, currently upskilling through the *iH
 * **Databases & Querying:** Advanced SQL
 * **Core Domains:** Applied Machine Learning, Artificial Intelligence & Data Science
 
-##📂 Key projects
+## 📂 Key projects
 
 (As I build projects in my Course, I will list them Here)
+
 👉 ⌛ Project 1 coming soon...
